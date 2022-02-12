@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="tv_id_style" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="tv_title_style" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">12sp</item>
+    </style>
+</resources>
